@@ -5,12 +5,12 @@ main:
 #
 #  - title: "News"
 #    url: /news/
-#
-#  - title: "Publications"
-#    url: /publications/
-#
+
+  - title: "Publications"
+    url: /publications/
+
 #  - title: "Teaching"
 #    url: /teaching/
-#
-#  - title: "Contacts"
-#    url: /contacts/
+
+  - title: "Contacts"
+    url: /contacts/

@@ -22,9 +22,7 @@ I am also interested in Cloud engineering and Data engineering.
 
 Research Projects and Thesis
 ---
-We have many research projects ongoing. If you want to make a research project or a thesis with us, send me an email at
-
-`davideyi DOT hu AT polimi DOT it`
+We have many research projects ongoing. If you want to make a research project or a thesis with us, send me an email.
 
 
 Education

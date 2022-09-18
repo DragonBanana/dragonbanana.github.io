@@ -13,7 +13,7 @@ name                     : &name "Davide Yi Xian Hu"
 description              : &description "Ph.D. Student, Politecnico di Milano."
 url                      : https://dragonbanana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dragonbanana.github.io"
+repository               : "dragonbanana/dragonbanana.github.io"
 teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -93,6 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
+  dblp             : "https://dblp.org/pid/275/0097.html"
   flickr           :
   facebook         :
   foursquare       :
@@ -103,7 +104,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "dragonbanana"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5251-7413"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
