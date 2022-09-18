@@ -17,7 +17,7 @@ Research Interests
 ---
 My main research interest is in Software Engineering for Machine Learning. 
 In particular, I am currently working on testing deep learning applications, domain generalization and adaptation.
-I am also interested in Cloud engineering and Data engineering.
+I am also interested in cloud and data engineering.
 
 
 Research Projects and Thesis
