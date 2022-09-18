@@ -1,0 +1,14 @@
+---
+title: "NEPTUNE: Network-and GPU-Aware Management of Serverless Functions at the Edge"
+collection: publications
+permalink: /publication/x
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.
+date: 18 May 2022 through 20 May 2022
+venue: 17th Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS 2022
+paperurl: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134186377&doi=10.1145%2f3524844.3528051&partnerID=40&md5=a4a2540c15be832fff1dcf445335b871
+citation: 'Baresi L., Hu D.Y.X., Quattrocchi G., Terracciano L. (2022). &quot;NEPTUNE: Network-and GPU-Aware Management of Serverless Functions at the Edge.&quot; <i>17th Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS 2022</i>.'
+---
+Abstract:
+Nowadays a wide range of applications is constrained by low-latency requirements that cloud infrastructures cannot meet. Multi-Access Edge Computing (MEC) has been proposed as the reference architecture for executing applications closer to users and reducing latency, but new challenges arise: edge nodes are resource-constrained, the workload can vary significantly since users are nomadic, and task complexity is increasing (e.g., machine learning inference). To overcome these problems, the paper presents NEPTUNE, a serverless-based framework for managing complex MEC solutions. NEPTUNE i) places functions on edge nodes according to user locations, ii) avoids the saturation of single nodes, iii) exploits GPUs when available, and iv) allocates resources (CPU cores) dynamically to meet foreseen execution times. A prototype, built on top of K3S, was used to evaluate NEPTUNE on a set of experiments that demonstrate a significant reduction in terms of response time, network overhead, and resource consumption compared to three well-known approaches. © 2022 ACM.
+keywords: Complex networks; Control theory; Graphics processing unit; Program processors; Cloud infrastructures; Dynamic resource allocations; Edge computing; Edge nodes; Gpu; Low latency; Multiaccess; Placement; Reference architecture; Serverless; Edge computing
+[Scopus Link](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134186377&doi=10.1145%2f3524844.3528051&partnerID=40&md5=a4a2540c15be832fff1dcf445335b871)
