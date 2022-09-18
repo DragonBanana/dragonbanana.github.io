@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 
-Email:  `davideyi DOT metelli AT polimi DOT it`
+Email:  `davideyi DOT hu AT polimi DOT it`
 
 Office 001, Third floor, Building 22
 <br>Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB)
