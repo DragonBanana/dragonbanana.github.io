@@ -21,8 +21,8 @@ I am also interested in cloud and data engineering.
 
 News
 ---
- - **May 2022** - Best Paper Award at **SEAMS 2022** awarded to "NEPTUNE: Network-and GPU-Aware Management of Serverless Functions at the Edge".
- - **March 2022** - **SEAMS 2022** accepted "NEPTUNE: Network-and GPU-Aware Management of Serverless Functions at the Edge".
+ - **May 2022** - Best Paper Award at **SEAMS 2022**.
+ - **March 2022** - Paper accepted at **SEAMS 2022** .
 
 Research Projects and Thesis
 ---
