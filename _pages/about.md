@@ -19,6 +19,10 @@ My main research interest is in Software Engineering for Machine Learning.
 In particular, I am currently working on testing deep learning applications, domain generalization and adaptation.
 I am also interested in cloud and data engineering.
 
+News
+---
+ - **May 2022** - Best Paper Award at **SEAMS 2022** awarded to "NEPTUNE: Network-and GPU-Aware Management of Serverless Functions at the Edge".
+ - **March 2022** - **SEAMS 2022** accepted "NEPTUNE: Network-and GPU-Aware Management of Serverless Functions at the Edge".
 
 Research Projects and Thesis
 ---
